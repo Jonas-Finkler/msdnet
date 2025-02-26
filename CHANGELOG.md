@@ -10,6 +10,8 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ### Fixed
 
+* Replaced `np.Inf` with `np.inf` and `np.int` with `np.int32` for compatibility with **NumPy 2.0**
+
 ### Removed
 
 ## [2.0.0] - 2020-09-14
